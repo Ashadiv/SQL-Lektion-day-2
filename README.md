@@ -1,1 +1,0 @@
-# SQL-Lektion-day-2
